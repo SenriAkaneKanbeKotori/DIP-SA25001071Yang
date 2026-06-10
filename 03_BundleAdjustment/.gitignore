@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# COLMAP can create very large intermediate files.
+data/colmap/
+
+# Local quick checks are useful but not part of the final report.
+outputs/smoke/
+
