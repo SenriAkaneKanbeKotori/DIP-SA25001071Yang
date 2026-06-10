@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tqdm
+torch
+
+# Optional acceleration / convenience dependencies.
+# The code runs without them via built-in fallbacks.
+# pytorch3d
+# natsort

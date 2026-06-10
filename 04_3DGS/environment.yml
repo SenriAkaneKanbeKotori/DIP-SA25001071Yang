@@ -1,0 +1,14 @@
+name: dip-3dgs
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - numpy
+  - opencv
+  - tqdm
+  - pytorch
+  - torchvision
+  - pip
