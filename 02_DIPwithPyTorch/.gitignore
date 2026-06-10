@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+
+# Pix2Pix data and generated artifacts
+Pix2Pix/datasets/
+Pix2Pix/train_list.txt
+Pix2Pix/val_list.txt
+Pix2Pix/results/
+Pix2Pix/checkpoints/
+
+# Gradio cache
+.gradio/
